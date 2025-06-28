@@ -1,8 +1,4 @@
 
-# Maria Tsatsari 4907
-# Theodora Tzelepi 4901
-
-
 # HOW TO RUN THE PROGRAM:  python3 prog.py test1.cpy             
 
 from os import name
