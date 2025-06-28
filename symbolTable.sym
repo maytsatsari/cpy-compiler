@@ -1,0 +1,5 @@
+scope 0:  x/12  name = quad/0
+scope 1:  g/12  t/16  x/20  name = sqr/0
+scope 2:  T_0/12  T_1/16  T_2/20  T_3/24  T_4/28 
+scope 0:  x/12  name = quad/0
+scope 1:  g/12  t/16  x/20  name = sqr/32 T_5/24  T_6/28  T_7/32  T_8/36 
